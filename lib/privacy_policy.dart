@@ -62,7 +62,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
                 style: TextStyle(fontSize: 16),
               ),
               Text(
-                "8. Contact Information\n\n"
+                "7. Contact Information\n\n"
                 "If you have any questions, concerns, or feedback regarding this Privacy & Policy, please contact us through the app’s support feature.\n",
                 style: TextStyle(fontSize: 16),
               ),

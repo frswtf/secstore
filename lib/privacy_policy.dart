@@ -44,27 +44,19 @@ class PrivacyPolicyScreen extends StatelessWidget {
                 style: TextStyle(fontSize: 16),
               ),
               Text(
-                "4. QR Code Generation and Scanning\n\n"
-                "SecStore allows you to generate and scan QR codes containing plaintext passwords or texts:\n"
-                "- Data in QR Codes: The QR codes generated within SecStore display plaintext information, making them readable by other QR scanners.\n"
-                "- No External Data Transmission: The QR code feature does not transmit or receive data from external sources; it is solely a tool for local use within your device.\n"
-                "- Encryption with CrontoSign Support: For added security, QR codes can be encrypted using AES encryption through the CrontoSign feature.\n",
-                style: TextStyle(fontSize: 16),
-              ),
-              Text(
-                "5. User Control and Access\n\n"
+                "4. User Control and Access\n\n"
                 "- PIN Change: Users can change their PIN at any time within the app. "
                 "It’s recommended to use a unique PIN to enhance security.\n"
                 "- Data Deletion: You can delete stored PINs, passwords, and QR code-generated data at any time. Once deleted, this data is removed permanently from the device.\n",
                 style: TextStyle(fontSize: 16),
               ),
               Text(
-                "6. No Third-Party Access\n\n"
+                "5. No Third-Party Access\n\n"
                 "SecStore does not use third-party services that could access your data. All functionalities operate solely within the app environment.\n",
                 style: TextStyle(fontSize: 16),
               ),
               Text(
-                "7. Policy Updates\n\n"
+                "6. Policy Updates\n\n"
                 "SecStore may update this Privacy & Policy as necessary to reflect changes in app functionality or legal requirements. "
                 "We encourage you to review this policy periodically to stay informed about our data practices.\n",
                 style: TextStyle(fontSize: 16),
